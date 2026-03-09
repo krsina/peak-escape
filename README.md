@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/12c7721d-d0be-4699-8411-31e6d6e635c6
 
 ## License
 
-MIT (or your chosen license)
+MIT
