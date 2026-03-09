@@ -7,12 +7,7 @@ Climb terrain, avoid hazards, use ropes and checkpoints, and reach the summit.
 ---
 
 ## Gameplay
-
-<!-- Replace the URL below with your gameplay video (YouTube, direct MP4 link, etc.) -->
-[![Gameplay](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-*Replace `VIDEO_ID` in both links above with your video ID (e.g. from `https://www.youtube.com/watch?v=dQw4w9WgXcQ` use `dQw4w9WgXcQ`).  
-Or use a direct video link: `[Watch gameplay](YOUR_VIDEO_URL)`*
+https://github.com/user-attachments/assets/12c7721d-d0be-4699-8411-31e6d6e635c6
 
 ---
 
